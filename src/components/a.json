@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Rouble tumbles to near eight-month low vs dollar - Reuters",
+      "description": "The rouble slumped to its weakest since late April past 72 against the dollar on Thursday as fears over the impact of sanctions on Russian oil and gas took the currency's losses this month to more than 15%.",
+      "url": "https://www.reuters.com/markets/currencies/rouble-tumbles-near-eight-month-low-vs-dollar-2022-12-22/",
+      "urlToImage": "https://www.reuters.com/resizer/o4nkdRswoDKLsRywg-T4TMZnGfE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/N5FNQBNRXVL3DFWNXMTGTMFCVI.jpg",
+      "publishedAt": "2022-12-22T12:27:34Z",
+      "content": "MOSCOW, Dec 22 (Reuters) - The rouble slumped to its weakest since late April past 72 against the dollar on Thursday as fears over the impact of sanctions on Russian oil and gas took the currency's l… [+2061 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla doubles discounts on mainstay vehicles to $7500 in U.S. - Reuters",
+      "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> is offering $7,500 discounts on Model 3 and Model Y electric vehicles (EV) delivered in the <a href=\"https://www.tesla.com/inventory/new/my?arrangeby=relevance&zip=95113…",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-offers-discount-some-car-models-us-canada-2022-12-22/",
+      "urlToImage": "https://www.reuters.com/resizer/2GKZ10ZmzP2WrBCZW3mpbSNW-5g=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FE4DIZIULJIG5HYR3MVGF7OYIY.jpg",
+      "publishedAt": "2022-12-22T12:26:00Z",
+      "content": "Dec 21 (Reuters) - Tesla Inc (TSLA.O) is offering $7,500 discounts on Model 3 and Model Y electric vehicles (EV) delivered in the United States this month, its website showed on Wednesday, amid conce… [+1936 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ross Levitt",
+      "title": "Thursday flight cancellations top 1,000 nationwide, disrupting holiday travel - CNN",
+      "description": "More than 1,200 flights have been cancelled across the United States, according to the flight tracking site FlightAware, as severe winter weather threatens holiday travel.",
+      "url": "https://www.cnn.com/2022/12/21/business/thursday-flight-cancellations/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221221203356-seattle-flights-221220-restricted.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-12-22T12:09:00Z",
+      "content": "More than 1,200 flights have been cancelled across the United States, according to the flight tracking site FlightAware, as severe winter weather threatens holiday travel.\r\nAs of early Thursday morni… [+1173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Matt Novak",
+      "title": "FTX Execs Plead Guilty While Throwing Sam Bankman-Fried Under the Bus - Gizmodo",
+      "description": "SBF was extradited overnight from the Bahamas to New York where he's expected to be arraigned Thursday.",
+      "url": "https://gizmodo.com/ftx-execs-plead-guilty-crypto-bitcoin-sbf-under-bus-btc-1849921972",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9895a9e13473c4a152fb0f70bbadd36f.jpg",
+      "publishedAt": "2022-12-22T11:00:00Z",
+      "content": "Two executives connected to FTX, the bankrupt cryptocurrency exchange once valued at $32 billion, have pleaded guilty to criminal charges, according to U.S. Attorney Damian Williams, who made the ann… [+8728 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Charmaine Jacob",
+      "title": "Gold at $4,000? Analysts share their 2023 outlook as inflation, recession fears linger - CNBC",
+      "description": "Juerg Kiener, managing director and CIO of Swiss Asia Capital, said investors would look to gold with inflation remaining high in many parts of the world.",
+      "url": "https://www.cnbc.com/2022/12/22/gold-at-4000-analysts-share-their-2023-outlook-for-prices.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107133682-1665627173432-gettyimages-74097476-Nic165988.jpeg?v=1671693027&w=1920&h=1080",
+      "publishedAt": "2022-12-22T07:10:27Z",
+      "content": "Gold prices could surge to $4,000 per ounce in 2023 as interest rate hikes and recession fears keep markets volatile, said Juerg Kiener, managing director and chief investment officer of Swiss Asia C… [+3268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Samantha Subin",
+      "title": "Stock futures rise on Thursday morning - CNBC",
+      "description": "Stocks remain on track for a losing month, even after two days of gains.",
+      "url": "https://www.cnbc.com/2022/12/21/stock-market-futures-open-to-close-news.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107161879-NYSE-Trading-Floor-OB-20221206-CC-PRESS-3.jpg?v=1671663771&w=1920&h=1080",
+      "publishedAt": "2022-12-22T05:43:00Z",
+      "content": "Stock futures rose slightly in early trading on Thursday after better-than-feared earnings and strong consumer confidence data helped boost stocks for a second day.\r\nStock futures tied to the Dow Jon… [+1820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "China soon to get first batch of foreign covid vaccines sent from Berlin | Latest English News - WION",
+      "description": "So far China insisted on using domestic vaccines to combat covid19 but for the first time Beijing is all set to get foreign covid vaccines. Germany sends Bio...",
+      "url": "https://www.youtube.com/watch?v=KTmo21bsJPM",
+      "urlToImage": "https://i.ytimg.com/vi/KTmo21bsJPM/maxresdefault.jpg",
+      "publishedAt": "2022-12-22T05:31:20Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NDTV News"
+      },
+      "author": null,
+      "title": "Google Links More Of CEO Sundar Pichai's Pay To Performance - NDTV Profit",
+      "description": "The board recognizes Sundar Pichai's \"strong performance\" as CEO, Alphabet Inc said, adding that the vesting of a significant portion of the award would depend on Alphabet's total shareholder return relative to other S&P 100 companies.",
+      "url": "https://www.ndtv.com/business/google-parent-alphabet-inc-links-more-of-ceo-sundar-pichais-pay-to-performance-3628295",
+      "urlToImage": "https://c.ndtvimg.com/2022-12/ri97vsu_sundar-pichai-google-ceo_625x300_19_December_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675?ver-20221221.02",
+      "publishedAt": "2022-12-22T05:13:56Z",
+      "content": "The CEO was also given a grant of $84 million in the form of the firm's restricted stock units.(File)\r\nGoogle-parent Alphabet Inc said today it had approved a new equity award for Chief Executive Off… [+896 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Ken Martin",
+      "title": "Hundreds of workers leaving Tyson Foods as company closes offices: report - Fox Business",
+      "description": "Tyson announced a consolidation of offices in October, but hundreds of employees have decided not to relocate.",
+      "url": "https://www.foxbusiness.com/markets/hundreds-of-workers-leaving-tyson-foods-company-closes-offices-report",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/Tyson-Chicago-A.jpg?ve=1&tl=1",
+      "publishedAt": "2022-12-22T05:03:31Z",
+      "content": "Hundreds of employees at Tyson Foods have decided not to relocate to the company's headquarters in Arkansas next year as the company consolidates its corporate offices.\r\nThe workers are reportedly fr… [+2008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Sam Reynolds",
+      "title": "SEC Calls FTT Exchange Token a Security - CoinDesk",
+      "description": "Complaint against Alameda's Caroline Ellison and FTX's Gary Wang contains allegations that FTX's exchange token, FTT, constitutes an investment contract.",
+      "url": "https://www.coindesk.com/business/2022/12/22/sec-calls-ftt-exchange-token-a-security/",
+      "urlToImage": "https://www.coindesk.com/resizer/U1kgnVgZ1MSgGnjoCKu4XS7N8T0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3V7S52JYPFG5LLD6XVJIXHX3HM.jpg",
+      "publishedAt": "2022-12-22T04:25:00Z",
+      "content": "FTX's exchange token FTT was sold as an investment contract, and is a \"security,\" the U.S. Securities and Exchange Commission said in a complaint filed late Wednesday, in a move that is sure to have … [+2152 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Brayden Lindrea",
+      "title": "Twitter adds BTC and ETH price indexes to search function - Cointelegraph",
+      "description": "Twitter has integrated a new price chart feature that enables users to quickly search up the price of BTC and ETH as the social media giant continues to ramp up crypto integrations onto the platform.",
+      "url": "https://cointelegraph.com/news/twitter-quietly-adds-btc-and-eth-price-indexes-to-search-function",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2022-12/d1e16105-5e13-4fc3-a2f1-5dc8d009a3e5.jpg",
+      "publishedAt": "2022-12-22T03:33:45Z",
+      "content": "Social media platform Twitter has added a new crypto feature that enables users to search the price of Bitcoin (BTC) and Ether (ETH) simply by typing their names or tickers into the search tab. \r\nThe… [+3257 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Cheryl Teh",
+      "title": "Caroline Ellison faces up to 110 years in prison after guilty plea - Business Insider",
+      "description": "Both Ellison and FTX co-founder Gary Wang are cooperating with prosecutors as part of their guilty plea to fraud charges.",
+      "url": "https://www.businessinsider.com/caroline-ellison-faces-110-years-in-prison-after-guilty-plea-2022-12",
+      "urlToImage": "https://i.insider.com/63a3d66a2345c00019ea9095?width=1200&format=jpeg",
+      "publishedAt": "2022-12-22T02:34:00Z",
+      "content": "Caroline Ellison, the former CEO of Alameda Research, faces a maximum sentence of 110 years in prison after striking a plea deal with the Department of Justice.\r\nThat's according to Ellison's plea ag… [+1975 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sec.gov"
+      },
+      "author": null,
+      "title": "SEC Charges Caroline Ellison and Gary Wang with Defrauding Investors in Crypto Asset Trading Platform FTX - SEC.gov",
+      "description": null,
+      "url": "https://www.sec.gov/news/press-release/2022-234",
+      "urlToImage": null,
+      "publishedAt": "2022-12-22T02:03:45Z",
+      "content": "Washington D.C., Dec. 21, 2022 —\r\n The Securities and Exchange Commission today charged Caroline Ellison, the former CEO of Alameda Research, and Zixiao (Gary) Wang, the former Chief Technology Offic… [+5534 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla driver in multi-car crash told police self-driving software malfunctioned - Reuters",
+      "description": "The driver of a 2021 Tesla <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> Model S involved in an eight-vehicle crash last month on San Francisco's Bay Bridge told police he was in Full-Self Driving (FSD) mode which had malfunc…",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-driver-multi-car-crash-told-police-self-driving-software-malfunctioned-2022-12-22/",
+      "urlToImage": "https://www.reuters.com/resizer/1kgipieDg6sut8wSZk9syGF_-oE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3OSX6DIBVMORJAHNK4VN5UGPU.jpg",
+      "publishedAt": "2022-12-22T00:45:00Z",
+      "content": "WASHINGTON, Dec 21 (Reuters) - The driver of a 2021 Tesla (TSLA.O) Model S involved in an eight-vehicle crash last month on San Francisco's Bay Bridge told police he was in Full-Self Driving (FSD) mo… [+2085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kevin Stankiewicz",
+      "title": "Cramer says he likes these technology and real-estate stocks for 2023 - CNBC",
+      "description": "CNBC's Jim Cramer offered some of his favorite tech and real-estate stocks for 2023 on Wednesday's \"Mad Money.\"",
+      "url": "https://www.cnbc.com/2022/12/21/cramer-says-he-likes-these-technology-and-real-estate-stocks-for-2023.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106196179-1571762737792rts2rrde.jpg?v=1671669809&w=1920&h=1080",
+      "publishedAt": "2022-12-22T00:43:00Z",
+      "content": "Tech picks for 2023\r\nOracle's fiscal 2023 second-quarter earnings last week were \"magnificent,\" Cramer said. The stock sells for less than 17 times forward earnings. While enterprise software is hard… [+1991 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Tesla sends Shanghai boss and aides to jumpstart US output - Reuters.com",
+      "description": "Tesla Inc's <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> China chief Tom Zhu and a team of his reports have been brought in to troubleshoot production issues in the United States, fueling talk among colleagues he is being gr…",
+      "url": "https://www.reuters.com/business/autos-transportation/tesla-sends-shanghai-boss-aides-jumpstart-us-output-2022-12-21/",
+      "urlToImage": "https://www.reuters.com/resizer/rrGosr4U1HogTuztqvoPYTjGDho=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/566XFHVXRNLAXPAY3UHI2MFKSA.jpg",
+      "publishedAt": "2022-12-22T00:28:00Z",
+      "content": "SHANGHAI/SAN FRANCISCO, Dec 21 (Reuters) - Tesla Inc's (TSLA.O) China chief Tom Zhu and a team of his reports have been brought in to troubleshoot production issues in the United States, fueling talk… [+5241 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ian King",
+      "title": "Micron to Cut 10% of Workforce as Demand for Computer Chips Slumps - Yahoo Finance",
+      "description": "(Bloomberg) -- Micron Technology Inc., the largest US maker of memory chips, said the worst industry glut in more than a decade will make it difficult to...",
+      "url": "https://finance.yahoo.com/news/micron-cut-10-workforce-demand-212137462.html",
+      "urlToImage": "https://media.zenfs.com/en/bloomberg_technology_68/3c469a562ae8663c00eb19ade56a8b6c",
+      "publishedAt": "2022-12-22T00:07:00Z",
+      "content": "(Bloomberg) -- Micron Technology Inc., the largest US maker of memory chips, said the worst industry glut in more than a decade will make it difficult to return to profitability in 2023.\r\nMost Read f… [+4182 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lee Ying Shan",
+      "title": "Asia markets set to rise after Wall Street saw boost from consumer confidence reading - CNBC",
+      "description": "Asia-Pacific shares are set to trade higher, carrying on the optimism on Wall Street as stocks saw a boost from upbeat earnings and strong consumer confidence readings.",
+      "url": "https://www.cnbc.com/2022/12/22/asia-markets-japanese-yen.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169324-1671579602570-gettyimages-1243657283-JAPAN_TANKAN.jpeg?v=1671668639&w=1920&h=1080",
+      "publishedAt": "2022-12-21T23:50:00Z",
+      "content": "Goldman Sachs' Jan Hatzius isn't counting on the Federal Reserve cutting rates next year, and that's because the economy will most likely avoid a recession in 2023, he told CNBC's \"Squawk on the Stre… [+1366 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Verifythis.com"
+      },
+      "author": "Erin Jones",
+      "title": "Yes, warming up your car before driving in cold weather can damage the engine - VERIFYThis.com",
+      "description": "Letting your car idle when it’s cold outside can shorten the life of your engine.",
+      "url": "https://www.verifythis.com/article/news/verify/weather-verify/warming-up-your-car-in-cold-weather-winter-can-cause-engine-damage-fact-check/536-8bf406d7-194c-4ca0-a06d-d1d56006e5d9",
+      "urlToImage": "https://media.tegna-media.com/assets/VERIFY/images/b63620da-951c-4b07-a6e7-b291a503eb40/b63620da-951c-4b07-a6e7-b291a503eb40_1140x641.jpg",
+      "publishedAt": "2022-12-21T22:31:00Z",
+      "content": "Winter is officially here and winter storms are hitting many parts of the United States.\r\nIn frigid temperatures, its a common practice for many drivers to let their cars warm up for a few minutes be… [+3609 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Lawrence Hodge",
+      "title": "Auto Executives Are Losing Confidence in EV Adoption - Jalopnik",
+      "description": "A survey of industry executives shows that concerns about everything from rising costs to interest rates have them facing the electric reality.",
+      "url": "https://jalopnik.com/auto-executives-are-losing-confidence-in-ev-adoption-1849920171",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/771348414a22081fd99a4aabcc12fd0f.jpg",
+      "publishedAt": "2022-12-21T22:30:00Z",
+      "content": "While the rollout of new EV models, government mandates, and infrastructure funding may make it seem like the EV adoption ball is rolling, there are skeptics, and theyre in places you might not expec… [+1532 chars]"
+    }
+  ]
+}
